@@ -1,0 +1,14 @@
+Creating bootstrap file:
+    If you want to execute using
+    ./main.py
+    main.py must have
+    #!/usr/bin/env python
+    at top of file.
+    Otherwise, you must run the main.py using
+    python main.py
+
+    Also, the executing file needs:
+        if __name__ == "__main__":
+            run()
+
+    *See the included main.py for more information

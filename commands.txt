@@ -12,3 +12,6 @@ Creating bootstrap file:
             run()
 
     *See the included main.py for more information
+
+Add regions for VSCode sidebar
+    # region <name of region>

@@ -15,3 +15,7 @@ Creating bootstrap file:
 
 Add regions for VSCode sidebar
     # region <name of region>
+
+Get token/key (in command line):
+    python -c "import secrets; print(secrets.token_urlsafe())"
+

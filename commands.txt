@@ -19,3 +19,6 @@ Add regions for VSCode sidebar
 Get token/key (in command line):
     python -c "import secrets; print(secrets.token_urlsafe())"
 
+Force Python to print to terminal immediately without buffer:
+    print("...", flush=True)
+

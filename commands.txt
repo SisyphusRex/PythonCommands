@@ -6,6 +6,10 @@ Creating bootstrap file:
     at top of file.
     Otherwise, you must run the main.py using
     python main.py
+    **If ./ doesnt work, the python path may be wrong
+        1. which python
+        2. shows path to python
+        3. copy and replace after #!<pythonfilepath>
 
     Also, the executing file needs:
         if __name__ == "__main__":

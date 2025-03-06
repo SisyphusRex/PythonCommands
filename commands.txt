@@ -47,3 +47,11 @@ Git Bash hanging on input:
     next time, run program
         winpty python <program>.py
 
+    OR
+        Uninstall python from Program Manager
+        Remove old python from path
+            advanced system settings
+        where python
+            to check for files
+        Install python again
+
